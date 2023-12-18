@@ -1,0 +1,1 @@
+bash scripts/CAP_mmin_mosei.sh 1 0,1

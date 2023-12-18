@@ -1,0 +1,1 @@
+bash scripts/CAP_mmin_ablation.sh 1 0,1
